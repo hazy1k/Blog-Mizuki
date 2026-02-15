@@ -6,7 +6,8 @@ pinned: true
 tags: [Markdown]
 category: Examples
 licenseName: "Unlicensed"
-author: hazy1k
+author: emn178
+sourceLink: "https://github.com/emn178/markdown"
 draft: false
 ---
 
@@ -16,5 +17,3 @@ draft: false
 
 - 列表 1
 - 列表 2
-
-
