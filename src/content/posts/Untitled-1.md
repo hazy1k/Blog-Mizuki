@@ -1,9 +1,12 @@
 ---
-title: "前言"
+title: test
 published: 2026-02-15
-description: "一篇用于测试部署的文章。"
-tags: ["测试"]
-category: "随笔"
+description: test
+pinned: true
+tags: [Markdown]
+category: Examples
+licenseName: "Unlicensed"
+author: hazy1k
 draft: false
 ---
 
